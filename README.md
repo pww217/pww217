@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pww217
-- 👀 I’m interested in ... Infrastructure as Code
-- 🌱 I’m currently learning ... Ansible, Terraform, unsurprisingly Git
+- 👋 Hi, I’m Peter
+- 👀 I’m interested in ... Network and Server Automation, Home Automation, Infrastructure as Code
+- 🌱 I’m currently learning ... More Python, Ansible, Terraform, unsurprisingly Git
