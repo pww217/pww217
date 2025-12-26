@@ -5,8 +5,6 @@ $ whoami
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&vCenter=true&width=550&lines=Peter+Wilson;Staff+Platform+Engineer+%40+Monarch+Money;Previously+%40+Anaconda+%C2%B7+ML+Infrastructure" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pww217&color=58a6ff&style=flat-square&label=Profile+Views)
-
 ---
 
 ### What I Work With
@@ -91,6 +89,8 @@ $ whoami
 <a href="https://github.com/pww217">
   <img src="https://github-readme-stats.vercel.app/api?username=pww217&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" height="165" />
 </a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pww217&color=58a6ff&style=flat-square&label=Profile+Views)
 
 ---
 
